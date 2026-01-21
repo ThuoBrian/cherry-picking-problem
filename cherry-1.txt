@@ -1,1 +1,3 @@
-this is a new cherry
+print(this is buggy)
+Bug fixed
+The bug was fixed)
