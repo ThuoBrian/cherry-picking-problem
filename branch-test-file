@@ -1,0 +1,3 @@
+Always pull 'main' before starting new work
+Never commit directly to 'main'
+Use clear commit messages.

@@ -1,2 +1,5 @@
 this is a new cherry
 Discovered new cherry by Nathan
+Always pull 'main' before starting new work
+Never commit directly to 'main'
+Use clear commit messages.
